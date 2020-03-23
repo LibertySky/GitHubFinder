@@ -1,2 +1,10 @@
 # GitHubFinder
-My JS training project. Working with Fetch API, Arrow fuction, promises, ES6 clases.
+
+My training project in vanilla JavaScript
+
+- DOM Events
+- Fetch API
+- Arrow Functions
+- Promises
+- Async Await
+- ES6 Classes
